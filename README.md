@@ -7,4 +7,3 @@
 - react-native-snap-carousel
 - react-navigation
 - react-native-vector-icons
-- 
