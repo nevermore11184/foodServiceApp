@@ -20,7 +20,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "ramda": "^0.26.1",
     "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-snap-carousel": "^3.8.2",
     "react-native-vector-icons": "^6.6.0",
